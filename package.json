@@ -1,0 +1,28 @@
+{
+  "name": "minutes-first-pebble-watchface",
+  "author": "Codex",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Minutes First",
+    "uuid": "be39583d-3331-402f-bb6d-c86a234c8be1",
+    "sdkVersion": "3",
+    "enableMultiJS": false,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": {},
+    "resources": {
+      "media": []
+    }
+  }
+}

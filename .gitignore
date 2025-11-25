@@ -1,0 +1,8 @@
+# Pebble build artifacts
+build/
+.lock-waf*
+.waf-*
+*.pbw
+
+# macOS
+.DS_Store
